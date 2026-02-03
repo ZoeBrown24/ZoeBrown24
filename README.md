@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Location: Leeds, United Kingdom
+- Favourite Fluorophore: BUV395
+- Previous coding experience: Floundering through a Master's project for three months
+- What I hope to get from this course: Some fun new ways to look at my data and having more control over what I am doing with it
